@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Large intermediate data files
+history_nav_52weeks.csv
+history_nav.csv
+download_progress.txt
